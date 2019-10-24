@@ -5,8 +5,9 @@
 ## 目录
 ### <a href="#1">1.Mini智慧工厂简介</a>
 ### <a href="#2">2.Mini智慧工厂网络配置</a>
-### <a href="#3">3.Mini智慧工厂常见问题及解决方法</a>
-### <a href="#4">4.Mini智慧工厂资料汇总</a>
+### <a href="#3">3.Mini智慧工厂相关账号记录</a>
+### <a href="https://github.com/JinghuiChan/Smart-Factory/issues">4.Mini智慧工厂常见问题及解决方法</a>
+### <a href="#5">5.Mini智慧工厂资料汇总</a>
 
 <hr>
 <br><br><br><br><br>
@@ -18,10 +19,23 @@
 
 ### <a id="2">2.Mini智慧工厂网络配置</a>
 
-
 ![Mini智慧工厂网络配置](https://github.com/JinghuiChan/Smart-Factory/blob/master/Pic/%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE.png)
 
-### <a id="3">3.Mini智慧工厂常见问题及解决方法</a>
+
+
+### <a id="3">3.Mini智慧工厂相关账号记录</a>  
+|  名称  |  账号   |  密码   |   备注一  |   备注二   |
+|    :----:    |  :----:  |  :----:  |  :----:  |  :----:  |
+|  Jackal-0187  |  administrator  |  clearpath  |  已设置开机自动登录  |   Jackal(样机)      |
+|  Jackal-0186  |  jackal  |   (一个空格)    |    Jackal(带多传感器)  |         |
+|  小车主机  |  jackal  |   jackal    |    已设置开机自动登录  |         |
+|  机械臂主机  |  无  |   无    |    已设置开机自动登录  |         |
+|  Teamviewer(小车主机)  |  *********  |   *********    |    待查询  |         |
+|  路由器(后台)  |  无  |  12345678    |    网关：192.168.2.1  |   掩码：255.255.255.0      |
+|  WiFi  |  Jackal+Arm_5G  |  jackalarm    |    网段：192.168.2.x  |   掩码：255.255.255.0      |
+
+
+### <a id="4">4.Mini智慧工厂常见问题及解决方法</a>
 * #### Ubuntu系统无法打开终端，或打开终端闪退，怎么办？
    - #### 解决方法：
    ```
@@ -43,7 +57,7 @@
    ```
 
 
-### <a id="4">4.Mini智慧工厂资料汇总</a>
+### <a id="5">5.Mini智慧工厂资料汇总</a>
 * #### [智慧工厂源码地址](https://github.com/JinghuiChan/Smart-Factory)
 * #### [智慧工厂操作手册](https://pan.baidu.com/s/18jfcN2WZpvsG_RaCaBAW4w)
 * #### [Jackal小车硬件介绍](https://pan.baidu.com/s/1liKlBWl-v6j2zwpgwdpZAw)
